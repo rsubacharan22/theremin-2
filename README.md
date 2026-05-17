@@ -1,11 +1,10 @@
+
+
+https://github.com/user-attachments/assets/4c41233f-211b-4a73-825d-d22a374e3786
+
 # 🎹 Invisible 80s Rhythm Keyboard
 
 An interactive, browser-based spatial instrument and rhythm game. This project uses AI hand-tracking to let users play a polyphonic synthesizer in mid-air using their webcam.
-
-<div align="center">
-  <video src="demo.mp4" controls="controls" style="max-width: 100%; border-radius: 8px; border: 2px solid #00f3ff; box-shadow: 0 0 20px rgba(0, 243, 255, 0.2);">
-  </video>
-</div>
 
 ## ✨ Overview
 This project transforms a standard webcam into a digital instrument. By tracking 3D hand landmarks in real-time, the application maps spatial coordinates to musical frequencies, allowing users to trigger fully synthesized audio by "pinching" the air. It also features an integrated rhythm game tutorial modeled after the main hook of *Blinding Lights*.
